@@ -1,6 +1,6 @@
 # Project Descriptions
 ## Automata
-Conways game of life, in the terminal using ncurses.
+Conway's game of life, in the terminal using ncurses.
 ## Bifurcation
 Renders a logistic map bifurcation diagram as an image.
 ![bifur](https://github.com/user-attachments/assets/9b291851-2453-416c-b0fe-8810082fc7af)
@@ -11,7 +11,7 @@ Partially finished chess engine. Can take PGM input, check for legal moves, and 
 * Bitboards
 * Zobirst hashing
 ## Cryptography
-Short program to test a distiguiser for a proposed psuedorandom number generator, showing that it can be distiguised with non-negligble frequency. Made for a cryptograhpy class I took.
+Short program to test a distiguisher for a proposed psuedorandom number generator, showing that it can be distiguished with non-negligble frequency. Made for a cryptograhpy class I took.
 ## HACKER
 Short ncurses program to render an ASCII skull with falling 1s and 0s to a terminal. Totally real hacking.
 ## Mandlebrot
