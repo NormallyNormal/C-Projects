@@ -1,0 +1,11 @@
+void init(void);
+struct Move * findBest(struct Board * board, bool WhiteToMove, int depth);
+double negaMax(struct Board * board, bool WhiteToMove, int depth, double alpha, double beta);
+double negaMaxCaptures(struct Board * board, bool WhiteToMove, double alpha, double beta);
+double evaluate(struct Board * board, bool WhiteToMove);
+void prune(struct Board * board, struct MoveList * moves, bool WhiteToMove);
+void bubble(struct Board * board, struct MoveList * moves, bool WhiteToMove);
+void bubbleAdvanced(struct Board * board, struct MoveList * moves, bool WhiteToMove);
+uint64_t mcg64(void);
+void genZobrist(void);
+uint64_t zobrist(struct Board * board, bool WhiteToMove);
