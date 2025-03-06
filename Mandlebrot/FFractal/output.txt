@@ -1,0 +1,1000 @@
+  272  gcc -o mandlebrot  mandlebrot.c -lm
+  273  ./mandlebrot 
+  274  gcc -o mandlebrot  mandlebrot.c -lm
+  275  ./mandlebrot 
+  276  gcc -o mandlebrot  mandlebrot.c -lm
+  277  ./mandlebrot 
+  278  cd Desktop/Project_1/
+  279  ./trig
+  280  cd Desktop/Personal_C/
+  281  gcc -o mandlebrot  mandlebrot.c -lm
+  282  ./mandlebrot 
+  283  gcc -o mandlebrot  mandlebrot.c -lm
+  284  ./mandlebrot 
+  285  gcc -o mandlebrot  mandlebrot.c -lm
+  286  ./mandlebrot 
+  287  gcc -o mandlebrot  mandlebrot.c -lm
+  288  ./mandlebrot 
+  289  gcc -o mandlebrot  mandlebrot.c -lm
+  290  ./mandlebrot 
+  291  gcc -o mandlebrot  mandlebrot.c -lm
+  292  ./mandlebrot 
+  293  gcc -o mandlebrot  mandlebrot.c -lm
+  294  ./mandlebrot 
+  295  gcc -o mandlebrot  mandlebrot.c -lm
+  296  ./mandlebrot 
+  297  gcc -o mandlebrot  mandlebrot.c -lm
+  298  ./mandlebrot 
+  299  gcc -o mandlebrot  mandlebrot.c -lm
+  300  ./mandlebrot 
+  301  gcc -o mandlebrot  mandlebrot.c -lm
+  302  ./mandlebrot 
+  303  gcc -o mandlebrot  mandlebrot.c -lm
+  304  ./mandlebrot 
+  305  cd Desktop/Personal_C/
+  306  gcc -o mandlebrot  mandlebrot.c -lm
+  307  ./mandlebrot 
+  308  cd Desktop/Personal_C/
+  309  gcc -o mandlebrot  mandlebrot.c -lm
+  310  ./mandlebrot 
+  311  cd Desktop/Personal_C/
+  312  gcc -o mandlebrot  mandlebrot.c -lm
+  313  ./mandlebrot 
+  314  cd Desktop/Personal_C/
+  315  gcc -o mandlebrot  mandlebrot.c -lm
+  316  ./mandlebrot 
+  317  gcc -o mandlebrot  mandlebrot.c -lm
+  318  ./mandlebrot 
+  319  gcc -o mandlebrot  mandlebrot.c -lm
+  320  ./mandlebrot 
+  321  gcc -o mandlebrot  mandlebrot.c -lm
+  322  ./mandlebrot 
+  323  gcc -o mandlebrot  mandlebrot.c -lm
+  324  ./mandlebrot 
+  325  gcc -o mandlebrot  mandlebrot.c -lm
+  326  ./mandlebrot 
+  327  gcc -o mandlebrot  mandlebrot.c -lm
+  328  cd Desktop/Personal_C/
+  329  gcc -o mandlebrot  mandlebrot.c -lm
+  330  ./mandlebrot 
+  331  cd Desktop/Personal_C/
+  332  gcc -o mandlebrot  mandlebrot.c -lm
+  333  ./mandlebrot 
+  334  gcc -o mandlebrot  mandlebrot.c -lm
+  335  cd Desktop/Personal_C/
+  336  gcc -o mandlebrot  mandlebrot.c -lm
+  337  ./mandlebrot 
+  338  gcc -o mandlebrot  mandlebrot.c -lm
+  339  ./mandlebrot 
+  340  gcc -o mandlebrot  mandlebrot.c -lm
+  341  cd Desktop/Personal_C/
+  342  gcc -o mandlebrot  mandlebrot.c -lm
+  343  cd Desktop/Personal_C/
+  344  ./mandlebrot 
+  345  cd Desktop/Personal_C/
+  346  gcc -o mandlebrot  mandlebrot.c -lm
+  347  ./mandlebrot 
+  348  ./mandlebrot
+  349  gcc -o mandlebrot  mandlebrot.c -lm
+  350  ./mandlebrot
+  351  gcc -o mandlebrot  mandlebrot.c -lm
+  352  ./mandlebrot
+  353  gcc -o mandlebrot  mandlebrot.c -lm
+  354  ./mandlebrot
+  355  gcc -o mandlebrot  mandlebrot.c -lm
+  356  ./mandlebrot
+  357  cd Desktop/Personal_C/
+  358  gcc -o mandlebrot  mandlebrot.c -lm
+  359  ./mandlebrot
+  360  gcc -o mandlebrot  mandlebrot.c -lm
+  361  ./mandlebrot
+  362  gcc -o mandlebrot  mandlebrot.c -lm
+  363  ./mandlebrot
+  364  gcc -o mandlebrot  mandlebrot.c -lm
+  365  ./mandlebrot
+  366  cd Desktop/Personal_C/
+  367  gcc -o mandlebrot  mandlebrot.c -lm
+  368  ./mandlebrot
+  369  gcc -o mandlebrot  mandlebrot.c -lm
+  370  ./mandlebrot
+  371  gcc -o mandlebrot  mandlebrot.c -lm
+  372  ./mandlebrot
+  373  gcc -o mandlebrot  mandlebrot.c -lm
+  374  ./mandlebrot
+  375  gcc -o mandlebrot  mandlebrot.c -lm
+  376  ./mandlebrot
+  377  cd Desktop/Personal_C/
+  378  ./mandlebrot
+  379  cd Desktop/Personal_C/
+  380  gcc -o mandlebrot  mandlebrot.c -lm
+  381  ./mandlebrot
+  382  gcc -o mandlebrot  mandlebrot.c -lm
+  383  ./mandlebrot
+  384  gcc -o mandlebrot  mandlebrot.c -lm
+  385  ./mandlebrot
+  386  gcc -o mandlebrot  mandlebrot.c -lm
+  387  cd Desktop/Personal_C/
+  388  gcc -o mandlebrot  mandlebrot.c -lm
+  389  ./mandlebrot
+  390  cd Desktop/Personal_C/
+  391  ./mandlebrot
+  392  gcc -o mandlebrot  mandlebrot.c -lm
+  393  ./mandlebrot
+  394  gcc -o mandlebrot  mandlebrot.c -lm
+  395  ./mandlebrot
+  396  gcc -o mandlebrot  mandlebrot.c -lm
+  397  ./mandlebrot
+  398  gcc -o mandlebrot  mandlebrot.c -lm
+  399  ./mandlebrot
+  400  gcc -o mandlebrot  mandlebrot.c -lm
+  401  ./mandlebrot
+  402  gcc -o mandlebrot  mandlebrot.c -lm
+  403  ./mandlebrot
+  404  gcc -o mandlebrot  mandlebrot.c -lm
+  405  ./mandlebrot
+  406  gcc -o mandlebrot  mandlebrot.c -lm
+  407  ./mandlebrot
+  408  gcc -o mandlebrot  mandlebrot.c -lm
+  409  ./mandlebrot
+  410  gcc -o mandlebrot  mandlebrot.c -lm
+  411  ./mandlebrot
+  412  cd Desktop/Personal_C/
+  413  ./mandlebrot
+  414  gcc -o mandlebrot  mandlebrot.c -lm
+  415  ./mandlebrot
+  416  gcc -o mandlebrot  mandlebrot.c -lm
+  417  ./mandlebrot
+  418  gcc -o mandlebrot  mandlebrot.c -lm
+  419  ./mandlebrot
+  420  gcc -o mandlebrot  mandlebrot.c -lm
+  421  ./mandlebrot
+  422  gcc -o mandlebrot  mandlebrot.c -lm
+  423  ./mandlebrot
+  424  gcc -o mandlebrot  mandlebrot.c -lm
+  425  ./mandlebrot
+  426  gcc -o mandlebrot  mandlebrot.c -lm
+  427  ./mandlebrot
+  428  gcc -o mandlebrot  mandlebrot.c -lm
+  429  ./mandlebrot
+  430  gcc -o mandlebrot  mandlebrot.c -lm
+  431  ./mandlebrot
+  432  gcc -o mandlebrot  mandlebrot.c -lm
+  433  ./mandlebrot
+  434  gcc -o mandlebrot  mandlebrot.c -lm
+  435  ./mandlebrot
+  436  gcc -o mandlebrot  mandlebrot.c -lm
+  437  ./mandlebrot
+  438  gcc -o mandlebrot  mandlebrot.c -lm
+  439  ./mandlebrot
+  440  gcc -o mandlebrot  mandlebrot.c -lm
+  441  ./mandlebrot
+  442  gcc -o mandlebrot  mandlebrot.c -lm
+  443  ./mandlebrot
+  444  gcc -o mandlebrot  mandlebrot.c -lm
+  445  ./mandlebrot
+  446  gcc -o mandlebrot  mandlebrot.c -lm
+  447  ./mandlebrot
+  448  gcc -o mandlebrot  mandlebrot.c -lm
+  449  ./mandlebrot
+  450  gcc -o mandlebrot  mandlebrot.c -lm
+  451  ./mandlebrot
+  452  gcc -o mandlebrot  mandlebrot.c -lm
+  453  ./mandlebrot
+  454  gcc -o mandlebrot  mandlebrot.c -lm
+  455  ./mandlebrot
+  456  gcc -o mandlebrot  mandlebrot.c -lm
+  457  ./mandlebrot
+  458  gcc -o mandlebrot  mandlebrot.c -lm
+  459  ./mandlebrot
+  460  gcc -o mandlebrot  mandlebrot.c -lm
+  461  ./mandlebrot
+  462  gcc -o mandlebrot  mandlebrot.c -lm
+  463  ./mandlebrot
+  464  gcc -o mandlebrot  mandlebrot.c -lm
+  465  ./mandlebrot
+  466  gcc -o mandlebrot  mandlebrot.c -lm
+  467  ./mandlebrot
+  468  gcc -o mandlebrot  mandlebrot.c -lm
+  469  ./mandlebrot
+  470  gcc -o mandlebrot  mandlebrot.c -lm
+  471  ./mandlebrot
+  472  gcc -o mandlebrot  mandlebrot.c -lm
+  473  ./mandlebrot
+  474  gcc -o mandlebrot  mandlebrot.c -lm
+  475  ./mandlebrot
+  476  gcc -o mandlebrot  mandlebrot.c -lm
+  477  ./mandlebrot
+  478  gcc -o mandlebrot  mandlebrot.c -lm
+  479  ./mandlebrot
+  480  cs Desktop/Personal_C/
+  481  cd Desktop/Personal_C/
+  482  ./mandlebrot 
+  483  ./mandlebrot
+  484  gcc -o mandlebrot  mandlebrot.c -lm
+  485  ./mandlebrot
+  486  gcc -o mandlebrot  mandlebrot.c -lm
+  487  ./mandlebrot
+  488  gcc -o mandlebrot  mandlebrot.c -lm
+  489  ./mandlebrot
+  490  gcc -o mandlebrot  mandlebrot.c -lm
+  491  ./mandlebrot
+  492  gcc -o mandlebrot  mandlebrot.c -lm
+  493  ./mandlebrot
+  494  gcc -o mandlebrot  mandlebrot.c -lm
+  495  gcc -o mandlebrot  mandlebrot.c -lm
+  496  ./mandlebrot
+  497  gcc -o mandlebrot  mandlebrot.c -lm
+  498  ./mandlebrot
+  499  gcc -o mandlebrot  mandlebrot.c -lm
+  500  ./mandlebrot
+  501  gcc -o mandlebrot  mandlebrot.c -lm
+  502  ./mandlebrot
+  503  gcc -o mandlebrot  mandlebrot.c -lm
+  504  ./mandlebrot
+  505  gcc -o mandlebrot  mandlebrot.c -lm
+  506  ./mandlebrot
+  507  gcc -o mandlebrot  mandlebrot.c -lm
+  508  ./mandlebrot
+  509  gcc -o mandlebrot  mandlebrot.c -lm
+  510  ./mandlebrot
+  511  gcc -o mandlebrot  mandlebrot.c -lm
+  512  ./mandlebrot
+  513  4
+  514  gcc -o mandlebrot  mandlebrot.c -lm
+  515  4
+  516  ./mandlebrot
+  517  gcc -o mandlebrot  mandlebrot.c -lm
+  518  ./mandlebrot
+  519  gcc -o mandlebrot  mandlebrot.c -lm
+  520  ./mandlebrot
+  521  gcc -o mandlebrot  mandlebrot.c -lm
+  522  ./mandlebrot
+  523  gcc -o mandlebrot  mandlebrot.c -lm
+  524  ./mandlebrot
+  525  gcc -o mandlebrot  mandlebrot.c -lm
+  526  ./mandlebrot
+  527  gcc -o mandlebrot  mandlebrot.c -lm
+  528  ./mandlebrot
+  529  gcc -o mandlebrot  mandlebrot.c -lm
+  530  ./mandlebrot
+  531  gcc -o mandlebrot  mandlebrot.c -lm
+  532  ./mandlebrot
+  533  gcc -o mandlebrot  mandlebrot.c -lm
+  534  ./mandlebrot
+  535  gcc -o mandlebrot  mandlebrot.c -lm
+  536  ./mandlebrot
+  537  gcc -o mandlebrot  mandlebrot.c -lm
+  538  ./mandlebrot
+  539  gcc -o mandlebrot  mandlebrot.c -lm
+  540  ./mandlebrot
+  541  gcc -o mandlebrot  mandlebrot.c -lm
+  542  ./mandlebrot
+  543  gcc -o mandlebrot  mandlebrot.c -lm
+  544  ./mandlebrot
+  545  gcc -o mandlebrot  mandlebrot.c -lm
+  546  ./mandlebrot
+  547  gcc -o mandlebrot  mandlebrot.c -lm
+  548  ./mandlebrot
+  549  gcc -o mandlebrot  mandlebrot.c -lm
+  550  ./mandlebrot
+  551  gcc -o mandlebrot  mandlebrot.c -lm
+  552  cd Desktop/Personal_C/
+  553  gcc -o mandlebrot  mandlebrot.c -lm
+  554  ./mandlebrot
+  555  gcc -o mandlebrot  mandlebrot.c -lm
+  556  ./mandlebrot
+  557  gcc -o mandlebrot  mandlebrot.c -lm
+  558  ./mandlebrot
+  559  cd Desktop/Personal_C/
+  560  ./mandlebrot
+  561  dos2unix
+  562  cd Desktop/Exercise_6
+  563  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise06/primes.c
+  564  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise06/ugly.c
+  565  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise06/input-1.txt\
+  566  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise06/expected-1.txt
+  567  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise06/input-2.txt
+  568  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise06/expected-2.txt
+  569  gcc -Wall -std=c99 ugly.c -o ugly
+  570  ./ugly 
+  571  ./ugly < input-2.txt > output.txt
+  572  diff output.txt expected-2.txt
+  573  cd
+  574  cd Desktop/Exercise_7
+  575  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise07/main.c
+  576  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise07/print.c
+  577  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise07/input.txt
+  578  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise07/expected.txt
+  579  gcc -Wall -std=c99 -g main.c print.c -o main
+  580  ./main
+  581  cd Desktop/Exercise_7
+  582  ./main < input.txt
+  583  ./main < input.txt > output.txt
+  584  diff output.txt expected.txt
+  585  touch make
+  586  touch Makefile
+  587  make
+  588  sudo apt install make
+  589  make
+  590  ./main
+  591  egrep
+  592  cd
+  593  cd Desktop/HW_3/
+  594  egrep 'flower' alice.txt
+  595  egreo 'rabbit' alice.txt
+  596  egrep 'rabbit' alice.txt
+  597  egrep 'rabbit|Rabbit' alice.txt
+  598  egrep '[Rr]abbit' alice.txt
+  599  egrep [Rr']'abbit' alice.txt
+  600  d
+  601  d
+  602  egrep [Rr]'abbit' alice.txt
+  603  Desktop
+  604  Desktop/H
+  605  Desktop/HW_3/
+  606  cd Desktop/HW_3/
+  607  egrep [Rr]'abbit' alice.txt
+  608  egrep [Rr]'abbit' alice.txt | we -l
+  609  sudo apt install xwpe
+  610  egrep [Rr]'abbit' alice.txt | we -l
+  611  cd Desktop/HW_3/
+  612  egrep [Rr]'abbit' alice.txt | wc -l
+  613  egrep 'dais'['y''ies'] alice.txt
+  614  egrep 'dais'('y'|'ies') alice.txt
+  615  egrep 'dais'['y'|'ies'] alice.txt
+  616  egrep 'dais'(y|x) alice.txt
+  617  egrep 'dais('y'|'ies')' alice.txt
+  618  egrep 'King.*White Rabbit' alice.txt
+  619  egrep 'she'[a-z][.] alice.txt
+  620  egrep 'Alice.*Rabbit'|'Rabbit.*Alice' alice.txt
+  621  cd Desktop/HW_3/
+  622  egrep 'Alice.*Rabbit|Rabbit.*Alice' alice.txt
+  623  cd Desktop/Project_2
+  624  touch operation.c
+  625  touch number10.c
+  626  touch number25.c
+  627  touch calc.c
+  628  touch operation.h
+  629  touch number10.h
+  630  touch number25.h
+  631  touch calc.h
+  632  touch Makefile
+  633  make calc10
+  634  ./calc10
+  635  make calc10
+  636  ./calc10
+  637  make calc10
+  638  ./calc10
+  639  make calc10
+  640  ./calc10
+  641  make calc10
+  642  touch calc10
+  643  make calc10
+  644  cd 
+  645  cd Desktop/Exercise_7
+  646  make main
+  647  cd Desktop/Project_2
+  648  cd
+  649  cd Desktop/Project_2
+  650  make calc10
+  651  make calc.o
+  652  make clean
+  653  make bob
+  654  make calc10
+  655  make calc
+  656  ./calc
+  657  make calc
+  658  ./calc
+  659  make calc
+  660  ./calc
+  661  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  662  gcc -c -Wall -std=c99 -g number10.c -o number10.o
+  663  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  664  gcc calc.o number10.o operation.o -o calc10
+  665  ./calc10
+  666  gcc calc.o number10.o operation.o -o calc10
+  667  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  668  gcc -c -Wall -std=c99 -g number10.c -o number10.o
+  669  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  670  gcc calc.o number10.o operation.o -o calc10
+  671  ./calc10
+  672  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  673  gcc calc.o number10.o operation.o -o calc10
+  674  ./calc10
+  675  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  676  gcc calc.o number10.o operation.o -o calc10
+  677  ./calc10
+  678  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  679  gcc -c -Wall -std=c99 -g number10.c -o number10.o
+  680  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  681  gcc calc.o number10.o operation.o -o calc10
+  682  ./calc10
+  683  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  684  gcc -c -Wall -std=c99 -g number10.c -o number10.o
+  685  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  686  gcc calc.o number10.o operation.o -o calc10
+  687  ./calc10
+  688  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  689  gcc -c -Wall -std=c99 -g number10.c -o number10.o
+  690  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  691  gcc calc.o number10.o operation.o -o calc10
+  692  ./calc10
+  693  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  694  gcc -c -Wall -std=c99 -g number10.c -o number10.o
+  695  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  696  gcc calc.o number10.o operation.o -o calc10
+  697  ./calc10
+  698  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  699  gcc -c -Wall -std=c99 -g number10.c -o number10.o
+  700  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  701  gcc calc.o number10.o operation.o -o calc10
+  702  ./calc10
+  703  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  704  gcc -c -Wall -std=c99 -g number10.c -o number10.o
+  705  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  706  gcc calc.o number10.o operation.o -o calc10
+  707  ./calc10
+  708  chmod +x test.sh
+  709  ./test.sh
+  710  ./calc10
+  711  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  712  gcc -c -Wall -std=c99 -g number10.c -o number10.o
+  713  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  714  gcc calc.o number10.o operation.o -o calc10
+  715  ./calc10
+  716  test.sh
+  717  ./test.sh
+  718  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  719  gcc -c -Wall -std=c99 -g number10.c -o number10.o
+  720  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  721  gcc calc.o number10.o operation.o -o calc10
+  722  test.sh
+  723  ./test.sh
+  724  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  725  cd Desktop/Project_2
+  726  gcc -g -Wall -std=c99   -c -o calc.o calc.c
+  727  gcc -c -Wall -std=c99 -g number25.c -o number25.o
+  728  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  729  gcc calc.o number25.o operation.o -o calc25
+  730  ./calc25
+  731  gcc -c -Wall -std=c99 -g number25.c -o number25.o
+  732  gcc calc.o number25.o operation.o -o calc25
+  733  ./calc25
+  734  gcc -c -Wall -std=c99 -g number25.c -o number25.o
+  735  gcc calc.o number25.o operation.o -o calc25
+  736  ./test.sh
+  737  gcc -c -Wall -std=c99 -g number25.c -o number25.o
+  738  gcc calc.o number25.o operation.o -o calc25
+  739  ./test.sh
+  740  ./calc25
+  741  gcc -c -Wall -std=c99 -g number25.c -o number25.o
+  742  gcc calc.o number25.o operation.o -o calc25
+  743  ./calc25
+  744  gcc -c -Wall -std=c99 -g number25.c -o number25.o
+  745  gcc calc.o number25.o operation.o -o calc25
+  746  ./calc25
+  747  ./test.sh
+  748  ./calc25
+  749  gcc -c -Wall -std=c99 -g number25.c -o number25.o
+  750  gcc calc.o number25.o operation.o -o calc25
+  751  ./calc25
+  752  gcc -c -Wall -std=c99 -g number25.c -o number25.o
+  753  gcc calc.o number25.o operation.o -o calc25
+  754  ./calc25
+  755  ./test.sh
+  756  ./calc25
+  757  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  758  gcc calc.o number25.o operation.o -o calc25
+  759  ./test.sh
+  760  gcc -g -Wall -std=c99   -c -o operation.o operation.c
+  761  gcc calc.o number25.o operation.o -o calc25
+  762  ./test.sh
+  763  make calc10
+  764  make calc25
+  765  make calc10
+  766  test.sh
+  767  ./test.sh
+  768  ./calc10
+  769  make calc10
+  770  ./test.sh
+  771  cd
+  772  cd Desktop/gtbachel-main/
+  773  cd p2
+  774  git
+  775  sudo apt install git
+  776  git add
+  777  git add calc.c
+  778  cd
+  779  cd Desktop/
+  780  git clone github.ncsu.edu/engr-csc230-spring2022/gtbachel
+  781  gh repo clone github.ncsu.edu/engr-csc230-spring2022/gtbachel
+  782  snap info gh
+  783  sudo snap install gh
+  784  gh repo clone github.ncsu.edu/engr-csc230-spring2022/gtbachel
+  785  gu auth login
+  786  gh auth login
+  787  gh repo clone github.ncsu.edu/engr-csc230-spring2022/gtbachel
+  788  git clone https://github.ncsu.edu/engr-csc230-spring2022/gtbachel.git
+  789  clear
+  790  git status
+  791  clear
+  792  cd gtbachel/
+  793  clear
+  794  git status
+  795  git stauts
+  796  git status
+  797  clear
+  798  ls
+  799  cd p2
+  800  ls
+  801  ls -la
+  802  git add .gitignore
+  803  touch .gitignore
+  804  git add .gitignore
+  805  clear
+  806  git add *
+  807  cd ..
+  808  ls -la
+  809  cd p2
+  810  rm .gitignore
+  811  cd ..
+  812  nano .gitingore
+  813  cat .gitignore 
+  814  notepadqq
+  815  notepadqq .gitignore 
+  816  git
+  817  git status
+  818  notepadqq .gitignore 
+  819  git status
+  820  git add .gitignore 
+  821  git commit -am "Project without comments, tests passing"
+  822  git config --global user.email "gtbach@ncsu.edu"
+  823  git config --global user.name "Finn Bacheldor"
+  824  git commit -am "Project without comments, tests passing"
+  825  git push
+  826  cd p2
+  827  touch .gitignore
+  828  git add .gitignore 
+  829  make calc25
+  830  make calc10
+  831  git status
+  832  git add Makefile 
+  833  git status
+  834  git commit -am "Fixed makefile calc25 instructions"
+  835  gut push
+  836  git push
+  837  test.sh
+  838  ./test.sh
+  839  git status
+  840  notepadqq .gitignore 
+  841  cd ..
+  842  notepadqq .gitignore 
+  843  cd p2
+  844  notepadqq .gitignore 
+  845  git status
+  846  git add .gitignore 
+  847  git add calc.c
+  848  git add number.h
+  849  git add number10.c
+  850  git add number25.c 
+  851  git add operation.c
+  852  git add operation.h 
+  853  git status
+  854  git commit -am "Fixed style violations, commenting"
+  855  git push
+  856  cd Desktop/Exercise_8
+  857  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise08/hilltop.c
+  858  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise08/input-1.txt
+  859  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise08/expected-1.txt
+  860  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise08/input-2.txt
+  861  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise08/expected-2.txt
+  862  eos$ gcc -Wall -std=c99 hilltop.c -o hilltop
+  863  gcc -Wall -std=c99 hilltop.c -o hilltop
+  864  ./hilltop < input-1.txt
+  865  ./hilltop < input-2.txt
+  866  ./hilltop < input-2.txt > | output.txt
+  867  ./hilltop < input-2.txt >| output.txt
+  868  diff expected-2.txt output.txt 
+  869  cd
+  870  cd Desktop/
+  871  cd Exercise_9
+  872  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise09/passByReference.c
+  873  curl -O https://www.csc2.ncsu.edu/courses/csc230/exercise/exercise09/expected.txt
+  874  gcc -Wall -std=c99 passByReference.c -o passByReference
+  875  ./passByReference 
+  876  ./passByReference >| output.txt
+  877  diff output.txt expected.txt 
+  878  cd Desktop/Personal_C/Mandlebrot2
+  879  cd Desktop/Personal_C/FFractal/
+  880  touch ffractal.c
+  881  touch ppmimage.c
+  882  gcc ppmrender.c 
+  883  ./a.out 
+  884  gcc ppmrender.c 
+  885  ./a.out 
+  886  gcc ppmrender.c 
+  887  ./a.out 
+  888  gcc ppmrender.c 
+  889  clear
+  890  gcc ppmrender.c 
+  891  clear
+  892  gcc ppmrender.c 
+  893  clear
+  894  gcc ppmrender.c 
+  895  ./a.out 
+  896  gcc ppmrender.c 
+  897  ./a.out 
+  898  gcc ppmrender.c 
+  899  ./a.out 
+  900  gcc ppmrender.c 
+  901  ./a.out 
+  902  gcc ppmrender.c 
+  903  ./a.out 
+  904  gcc ppmrender.c 
+  905  ./a.out 
+  906  gcc ppmrender.c 
+  907  ./a.out 
+  908  gcc ppmrender.c 
+  909  ./a.out 
+  910  touch ppmrender.h
+  911  cd Desktop/Personal_C/FFractal/
+  912  touch Makefile
+  913  make ffractal
+  914  clear
+  915  make ffractal
+  916  clear
+  917  make ffractal
+  918  clear
+  919  make ffractal
+  920  ./ffractal 
+  921  make ffractal
+  922  ./ffractal 
+  923  make ffractal
+  924  ./ffractal 
+  925  make ffractal
+  926  ./ffractal 
+  927  make ffractal
+  928  ./ffractal 
+  929  make ffractal
+  930  ./ffractal 
+  931  make ffractal
+  932  ./ffractal 
+  933  make ffractal
+  934  ./ffractal 
+  935  make ffractal
+  936  ./ffractal 
+  937  make ffractal
+  938  ./ffractal 
+  939  make ffractal
+  940  ./ffractal 
+  941  make ffractal
+  942  ./ffractal 
+  943  make ffractal
+  944  ./ffractal 
+  945  make ffractal
+  946  ./ffractal 
+  947  make ffractal
+  948  ./ffractal 
+  949  make ffractal
+  950  ./ffractal 
+  951  make ffractal
+  952  ./ffractal 
+  953  make ffractal
+  954  ./ffractal 
+  955  make ffractal
+  956  ./ffractal 
+  957  make ffractal
+  958  ./ffractal 
+  959  make ffractal
+  960  ./ffractal 
+  961  make ffractal
+  962  ./ffractal 
+  963  make ffractal
+  964  ./ffractal 
+  965  make ffractal
+  966  ./ffractal 
+  967  make ffractal
+  968  ./ffractal 
+  969  make ffractal
+  970  ./ffractal 
+  971  make ffractal
+  972  ./ffractal 
+  973  make ffractal
+  974  ./ffractal 
+  975  make ffractal
+  976  ./ffractal 
+  977  make ffractal
+  978  ./ffractal 
+  979  make ffractal
+  980  ./ffractal 
+  981  make ffractal
+  982  ./ffractal 
+  983  make ffractal
+  984  ./ffractal 
+  985  make ffractal
+  986  ./ffractal 
+  987  make ffractal
+  988  ./ffractal 
+  989  make ffractal
+  990  ./ffractal 
+  991  make ffractal
+  992  ./ffractal 
+  993  make ffractal
+  994  ./ffractal 
+  995  make ffractal
+  996  ./ffractal 
+  997  make ffractal
+  998  ./ffractal 
+  999  make ffractal
+ 1000  ./ffractal 
+ 1001  make ffractal
+ 1002  ./ffractal 
+ 1003  make ffractal
+ 1004  ./ffractal 
+ 1005  touch gui.c
+ 1006  apt install libncurses5-dev libncursesw5-dev
+ 1007  sudo apt install libncurses5-dev libncursesw5-dev
+ 1008  gcc gui.c
+ 1009  gcc gui.c -lncurses
+ 1010  gcc gui.c -lncurses gui
+ 1011  ./a.out
+ 1012  gcc gui.c -lncurses gui
+ 1013  gcc gui.c -lncurses
+ 1014  ./a.out
+ 1015  cd Desktop/Personal_C/FFractal/
+ 1016  gcc gui.c -lncurses
+ 1017  ./a.out
+ 1018  gcc gui.c -lncurses
+ 1019  ./a.out
+ 1020  gcc gui.c -lncurses
+ 1021  ./a.out
+ 1022  gcc gui.c -lncurses
+ 1023  ./a.out
+ 1024  gcc gui.c -lncurses
+ 1025  ./a.out
+ 1026  touch gui.h
+ 1027  make ffractal
+ 1028  clear
+ 1029  make ffractal
+ 1030  clear
+ 1031  make ffractal
+ 1032  clear
+ 1033  make ffractal
+ 1034  clear
+ 1035  make ffractal
+ 1036  clear
+ 1037  make ffractal
+ 1038  clear
+ 1039  make ffractal
+ 1040  celar
+ 1041  clear
+ 1042  make ffractal
+ 1043  clear
+ 1044  make ffractal
+ 1045  clear
+ 1046  make ffractal
+ 1047  clear
+ 1048  make ffractal
+ 1049  clear
+ 1050  make ffractal
+ 1051  clear
+ 1052  make ffractal
+ 1053  clear
+ 1054  make ffractal
+ 1055  clear
+ 1056  make ffractal
+ 1057  clear
+ 1058  make ffractal
+ 1059  clear
+ 1060  make ffractal
+ 1061  clear
+ 1062  make ffractal
+ 1063  clear
+ 1064  make ffractal
+ 1065  clear
+ 1066  make ffractal
+ 1067  clear
+ 1068  make ffractal
+ 1069  clear
+ 1070  make ffractal
+ 1071  clear
+ 1072  make ffractal
+ 1073  clear
+ 1074  make ffractal
+ 1075  clear
+ 1076  make ffractal
+ 1077  clear
+ 1078  make ffractal
+ 1079  ./ffractal 
+ 1080  make ffractal
+ 1081  ./ffractal 
+ 1082  make ffractal
+ 1083  ./ffractal 
+ 1084  gdb
+ 1085  cd Desktop/Personal_C/FFractal/
+ 1086  gdb ./ffractal 
+ 1087  cd Desktop/Personal_C/FFractal/
+ 1088  ./ffractal 
+ 1089  make ffractal
+ 1090  ./ffractal 
+ 1091  make ffractal
+ 1092  ./ffractal 
+ 1093  make ffractal
+ 1094  ./ffractal 
+ 1095  make ffractal
+ 1096  ./ffractal 
+ 1097  make ffractal
+ 1098  ./ffractal 
+ 1099  make ffractal
+ 1100  ./ffractal 
+ 1101  make ffractal
+ 1102  ./ffractal 
+ 1103  make ffractal
+ 1104  ./ffractal 
+ 1105  make ffractal
+ 1106  ./ffractal 
+ 1107  make ffractal
+ 1108  ./ffractal 
+ 1109  make ffractal
+ 1110  ./ffractal 
+ 1111  make ffractal
+ 1112  ./ffractal 
+ 1113  make ffractal
+ 1114  ./ffractal 
+ 1115  make ffractal
+ 1116  ./ffractal 
+ 1117  make ffractal
+ 1118  ./ffractal 
+ 1119  make ffractal
+ 1120  ./ffractal 
+ 1121  make ffractal
+ 1122  ./ffractal 
+ 1123  make ffractal
+ 1124  ./ffractal 
+ 1125  make ffractal
+ 1126  ./ffractal 
+ 1127  make ffractal
+ 1128  ./ffractal 
+ 1129  make ffractal
+ 1130  ./ffractal 
+ 1131  make ffractal
+ 1132  ./ffractal 
+ 1133  make ffractal
+ 1134  ./ffractal 
+ 1135  make ffractal
+ 1136  ./ffractal 
+ 1137  make ffractal
+ 1138  ./ffractal 
+ 1139  make ffractal
+ 1140  ./ffractal 
+ 1141  make ffractal
+ 1142  ./ffractal 
+ 1143  make ffractal
+ 1144  ./ffractal 
+ 1145  make ffractal
+ 1146  ./ffractal 
+ 1147  make ffractal
+ 1148  ./ffractal 
+ 1149  make ffractal
+ 1150  ./ffractal 
+ 1151  make ffractal
+ 1152  ./ffractal 
+ 1153  make ffractal
+ 1154  ./ffractal 
+ 1155  make ffractal
+ 1156  ./ffractal 
+ 1157  make ffractal
+ 1158  ./ffractal 
+ 1159  make ffractal
+ 1160  ./ffractal 
+ 1161  make ffractal
+ 1162  ./ffractal 
+ 1163  make ffractal
+ 1164  ./ffractal 
+ 1165  make ffractal
+ 1166  ./ffractal 
+ 1167  make ffractal
+ 1168  ./ffractal 
+ 1169  make ffractal
+ 1170  ./ffractal 
+ 1171  make ffractal
+ 1172  ./ffractal 
+ 1173  make ffractal
+ 1174  ./ffractal 
+ 1175  make ffractal
+ 1176  ./ffractal 
+ 1177  make ffractal
+ 1178  ./ffractal 
+ 1179  make ffractal
+ 1180  ./ffractal 
+ 1181  make ffractal
+ 1182  ./ffractal 
+ 1183  ./ffractal 
+ 1184  make ffractal
+ 1185  ./ffractal [A
+ 1186  ./ffractal
+ 1187  ./ffractal [A
+ 1188  ./ffractal
+ 1189  cd Desktop/Personal_C/FFractal/
+ 1190  ./ffractal
+ 1191  make ffractal
+ 1192  ./ffractal
+ 1193  make ffractal
+ 1194  ./ffractal
+ 1195  make ffractal
+ 1196  clear
+ 1197  make ffractal
+ 1198  clear
+ 1199  ./ffractal
+ 1200  clear
+ 1201  make ffractal
+ 1202  ./ffractal
+ 1203  make ffractal
+ 1204  ./ffractal
+ 1205  make ffractal
+ 1206  ./ffractal
+ 1207  make ffractal
+ 1208  ./ffractal
+ 1209  make ffractal
+ 1210  ./ffractal
+ 1211  make ffractal
+ 1212  ./ffractal
+ 1213  make ffractal
+ 1214  ./ffractal
+ 1215  make ffractal
+ 1216  ./ffractal
+ 1217  make ffractal
+ 1218  ./ffractal
+ 1219  make ffractal
+ 1220  ./ffractal
+ 1221  make ffractal
+ 1222  ./ffractal
+ 1223  make ffractal
+ 1224  ./ffractal
+ 1225  make ffractal
+ 1226  ./ffractal
+ 1227  clear
+ 1228  ./ffractal
+ 1229  clear
+ 1230  make ffractal
+ 1231  ./ffractal
+ 1232  clear
+ 1233  make ffractal
+ 1234  ./ffractal
+ 1235  make ffractal
+ 1236  ./ffractal
+ 1237  make ffractal
+ 1238  ./ffractal
+ 1239  make ffractal
+ 1240  ./ffractal
+ 1241  make ffractal
+ 1242  ./ffractal
+ 1243  make ffractal
+ 1244  ./ffractal
+ 1245  make ffractal
+ 1246  ./ffractal
+ 1247  make ffractal
+ 1248  ./ffractal
+ 1249  make ffractal
+ 1250  ./ffractal
+ 1251  make ffractal
+ 1252  ./ffractal
+ 1253  make ffractal
+ 1254  ./ffractal
+ 1255  make ffractal
+ 1256  ./ffractal
+ 1257  make ffractal
+ 1258  ./ffractal
+ 1259  make ffractal
+ 1260  ./ffractal
+ 1261  make ffractal
+ 1262  ./ffractal
+ 1263  make ffractal
+ 1264  ./ffractal
+ 1265  make ffractal
+ 1266  ./ffractal
+ 1267  make ffractal
+ 1268  ./ffractal
+ 1269  make ffractal
+ 1270  ./ffractal
+ 1271  history >| output.txt
